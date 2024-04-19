@@ -7,7 +7,7 @@ import Projects from "./Projects";
 
 export default function Right() {
   return (
-    <div className="flex flex-col px-[3vw] my-[2vh] w-[75%]">
+    <div className="flex flex-col px-[3vw] my-[1vh] w-[70%]">
       <Career heading="Career Objective" />
       <Education heading="Educational Qualification" />
       <Experience heading="Work Experience" />

@@ -1,7 +1,7 @@
 const edu = [
   {
     id: 1,
-    year: "2021 - Present",
+    year: "2020 - Present",
     colon: ":",
     desc: [
       {

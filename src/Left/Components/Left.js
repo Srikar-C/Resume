@@ -7,7 +7,7 @@ import lang from "../Lists/langs";
 import hobby from "../Lists/hobby";
 export default function Left() {
   return (
-    <div className="flex flex-col w-[35%] bg-blue-800 text-white pl-5">
+    <div className="flex flex-col w-[37%] bg-blue-800 text-white pl-5">
       <div className="name">
         <p className="text-4xl font-semibold my-5">Challa Srikar</p>
       </div>
@@ -15,11 +15,11 @@ export default function Left() {
       <div className="port flex flex-col my-3">
         <p className="uppercase font-bold text-xl">Portfolio:</p>
         <a
-          href="https://challa-srikar.web.app/"
+          href="https://srikarchalla.netlify.app/"
           target="_blank"
           className="mx-3"
         >
-          <u className="italic">challa-srikar</u>
+          <u className="italic">https://srikarchalla.netlify.app/</u>
         </a>
       </div>
       <Template heading="Technical Skills" list={techItems} />

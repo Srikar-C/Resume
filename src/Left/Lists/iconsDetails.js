@@ -46,7 +46,7 @@ const icons = [
     icon: (
       <FaLinkedinIn className="border-2 border-white rounded-[50%] p-[4px] text-4xl" />
     ),
-    text: "srikar-challa",
+    text: "/srikar-challa-5a22b9250/",
     link: true,
     url: "https://www.linkedin.com/in/srikar-challa-5a22b9250/",
   },
@@ -55,7 +55,7 @@ const icons = [
     icon: (
       <PiGithubLogoFill className="border-2 border-white rounded-[50%] p-[4px] text-4xl" />
     ),
-    text: "Srikar-C",
+    text: "/Srikar-C",
     link: true,
     url: "https://github.com/Srikar-C",
   },
